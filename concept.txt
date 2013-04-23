@@ -1,0 +1,32 @@
+Mob central
+
+add mob vilages (sort of dungeons)
+	center of the village contains a portal to the mob central world
+	
+	
+mob central
+	world of mobs
+		contains a lot of different buildings
+			from outposts to citys
+			
+			
+fractions
+	multiple fractions in mob central
+		zombie
+		creeper
+		enderman
+		skeleton
+	strenght of enemys scales with treat to their fraction
+		threat is gained by attacking towns.
+		
+	spiders as pet
+	zombie pigmen as mobs (farmed by different fractions)
+	maybe other (new) mobs
+	
+mob classes
+	fractions have multiple different classes ranging from weak to boss monster
+		common mob, nothing special, strenght depending on thread to fraction (the more you kill the stronger, up to a cap)
+		defenders, stronger than common mob, found around overworld villagers, number and strenght increase with treat
+			
+		
+		
